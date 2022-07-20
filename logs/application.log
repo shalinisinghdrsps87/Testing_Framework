@@ -1,0 +1,26 @@
+2022-07-20 20:50:54,915  INFO [main] SeleniumDriver:23 - The browser to test on is : chrome
+2022-07-20 20:50:56,741  INFO [main] SeleniumDriver:37 - Driver setup done
+2022-07-20 20:50:56,833  INFO [main] SeleniumDriver:17 - Home Page elements initialized
+2022-07-20 20:50:56,835  INFO [main] SeleniumDriver:30 - Direction Page elements initialized
+2022-07-20 20:50:56,836  INFO [main] FindDirection_Route:31 - The Website Url given in property file is : https://maps.google.com/
+2022-07-20 20:51:01,515  INFO [main] SeleniumDriver:43 - Opened website : https://maps.google.com/
+2022-07-20 20:51:01,516  INFO [main] FindDirection_Route:38 - The Search Location given in property file is : San Francisco, California
+2022-07-20 20:51:01,612  INFO [main] SeleniumDriver:22 - Entered Location as : San Francisco, California
+2022-07-20 20:51:01,672  INFO [main] SeleniumDriver:27 - Clicked on Search Location Button
+2022-07-20 20:51:06,719  INFO [main] FindDirection_Route:53 - https://www.google.com/maps/place/San+Francisco,+CA,+USA/@37.7576793,-122.5076402,12z/data=!4m5!3m4!1s0x80859a6d00690021:0x4a501367f076adff!8m2!3d37.7749295!4d-122.4194155
+2022-07-20 20:51:06,719  INFO [main] FindDirection_Route:56 - The coordinates given in property file is : 37.7576793,-122.5076402
+2022-07-20 20:51:06,793  INFO [main] SeleniumDriver:31 - Clicked on Direction Button
+2022-07-20 20:51:07,402  INFO [main] SeleniumDriver:35 - Clicked on Car Button
+2022-07-20 20:51:07,403  INFO [main] FindDirection_Route:87 - The Start Location given in property file is : Chico, California
+2022-07-20 20:51:07,468  INFO [main] SeleniumDriver:40 - Enetered starting location as : Chico, California
+2022-07-20 20:51:07,470  INFO [main] FindDirection_Route:93 - The Start Location given in property file is : San Francisco, California
+2022-07-20 20:51:07,584  INFO [main] SeleniumDriver:45 - Enetered destination location as : San Francisco, California
+2022-07-20 20:51:07,815  INFO [main] SeleniumDriver:52 - Clicked on Search Route Button
+2022-07-20 20:51:11,750  INFO [main] PrintInTxtFile:27 - Total routes suggested by Google is 3
+Please find below details of the routes.
+
+Route1) via I-80 W which takes around 3 hr 1 min and the distance is 164 miles
+Route2) via CA-99 S and I-80 W which takes around 3 hr 4 min and the distance is 170 miles
+Route3) via CA-70 S and I-80 W which takes around 3 hr 24 min and the distance is 190 miles
+
+2022-07-20 20:51:16,532  INFO [main] SeleniumDriver:63 - Killed driver instances

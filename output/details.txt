@@ -1,0 +1,6 @@
+Total routes suggested by Google is 3
+Please find below details of the routes.
+
+Route1) via I-80 W which takes around 3 hr 1 min and the distance is 164 miles
+Route2) via CA-99 S and I-80 W which takes around 3 hr 4 min and the distance is 170 miles
+Route3) via CA-70 S and I-80 W which takes around 3 hr 24 min and the distance is 190 miles
